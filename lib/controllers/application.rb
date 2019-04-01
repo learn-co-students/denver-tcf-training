@@ -1,5 +1,5 @@
-# class Application
-#   def call(env)
-#     binding.pry
-#   end
-# end
+class Application
+  def call(env)
+    # binding.pry
+  end
+end
